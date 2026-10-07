@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="ABC라이프케어 로고">
+  <!-- ABC라이프케어 심볼: 서로 기대어 감싸는 두 개의 원(사람·가족)과 그 사이의 하트(돌봄) -->
+  <rect width="48" height="48" rx="14" fill="#EEF4FA"/>
+  <circle cx="19" cy="25" r="11" fill="#8FB8DE"/>
+  <circle cx="29" cy="25" r="11" fill="#BFE3D0" fill-opacity="0.9"/>
+  <path d="M24 19.6c-1.1-2.3-4.6-2.4-5.4.1-.6 1.8.6 3.4 2.2 4.8L24 27l3.2-2.5c1.6-1.4 2.8-3 2.2-4.8-.8-2.5-4.3-2.4-5.4-.1z" fill="#F4B9A0" transform="translate(0 1.5)"/>
+</svg>
